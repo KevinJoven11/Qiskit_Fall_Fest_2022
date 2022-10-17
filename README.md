@@ -4,7 +4,7 @@ Evaluacion de diferentes tecnicas de mitigacion de errores en el estado Greenber
 
 ## Descripcion:
 
-Se utilizo el circuito GHZ para evaluear dos diferentes tecnicas para mitigar errores de tipo bit-flip (T1) y phase-flip (T2) causados por un modelo de ruido de relajacion termica en conjunto con el simulador Qasm de Qiskit. En adicion se construyo un circuito para la correccion de los errores previamente descritos, siguiendo la referencia [1]. Se logro concluir que las dos tecnicas de mitigacion son efectivas para tiempos de relajacion de T1 menores a 50 us, ya que la fidelidad de Hellinger decrese por debajo de 0.99.
+Se utilizo el circuito GHZ para evaluear dos diferentes tecnicas para mitigar errores de tipo bit-flip (T1) y phase-flip (T2) causados por un modelo de ruido de relajacion termica en conjunto con el simulador Qasm de Qiskit. En adicion se construyo un circuito para la correccion de los errores previamente descritos, siguiendo la referencia [1]. Se logro concluir que las dos tecnicas de mitigacion son efectivas para tiempos de relajacion de T1 menores a 50 us, ya que la fidelidad de Hellinger decrese por debajo de 0.99 y menos.
 
 ## Integrantes:
 
