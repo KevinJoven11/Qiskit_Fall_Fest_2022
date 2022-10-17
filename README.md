@@ -18,3 +18,9 @@ Se utilizo el circuito GHZ para evaluear dos diferentes tecnicas para mitigar er
 ### Jose Ossorio
 - Pregrado: Universidad Icesi, Cali, Colombia
 - Posgrado: University of Victoria, Victoria, Canada
+
+## Referencias:
+Libreria de mitigación: https://qiskit.org/documentation/stable/0.26/tutorials/noise/3_measurement_error_mitigation.html  
+Libreria de modelos de ruido: https://qiskit.org/documentation/tutorials/simulators/3_building_noise_models.html  
+Libro error correction: https://link.springer.com/chapter/10.1007/978-3-030-63689-0_9  
+GHZ circuito usando qiskit: https://quantum-computing.ibm.com/lab/docs/iqx/example-circuits/ghz  
